@@ -12,7 +12,7 @@ public class PwdGen {
         String opc = "";
         String pass = null;
         String pass1 = "";
-        String sub = "";//
+        String sub = "";
 
         int val = args.length;
 
